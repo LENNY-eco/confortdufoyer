@@ -1,12 +1,27 @@
-# Confort du Foyer — site indépendant
+# Confort du Foyer
 
-Frontend statique préparé pour GitHub Pages.
+Site e-commerce statique prêt pour GitHub Pages.
 
-## Prochaine architecture
-- Frontend: GitHub Pages
-- Domaine: confortdufoyer.fr (IONOS)
-- Base de données: Supabase
-- Paiement: Stripe Checkout
-- Admin: interface privée /admin
+## Pages
+- index.html
+- collection.html
+- produit.html
+- panier.html
+- checkout.html
+- recherche.html
+- contact.html
+- compte.html
+- favoris.html
+- 404.html
+- a-propos.html
+- faq.html
+- livraison.html
+- retours.html
+- suivi-commande.html
+- engagements.html
+- cgv.html
+- confidentialite.html
+- mentions-legales.html
+- cookies.html
 
-Les clés secrètes Stripe et Supabase ne doivent jamais être placées dans les fichiers HTML publics.
+Les liens internes ont été adaptés pour fonctionner depuis le sous-chemin GitHub Pages `/confortdufoyer/`.
